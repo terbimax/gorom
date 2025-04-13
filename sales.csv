@@ -1,334 +1,334 @@
 RSM,DSM,CODE,NAME,MTD QNTY
-P1	PC	PB2	Md. Sajjat Hossain Sobuj	10
-P1	PC	PE3	Md. Kamal Hosen	16
-P1	PC	PL6	Md. Titul Mia	5
-P1	PC	PL7	Md. Salim Reza	19
-P1	PC	QC8	Md. Abdul Aziz	23
-P1	PC	QK4	Md. Mostafizur Rahman	34
-P1	PP	PH1	Mr. Md. Joynal Abedin as PSO Prisma	0
-P1	PS	PC2	Md. Al Amin	18
-P1	PS	PC4	Md. Rubel Mondol	10
-P1	PS	PC5	MR. ANISUR RAHAMAN BISWAS	18
-P1	PS	PC6	Mr. Md. Imran Hossain	21
-P1	PS	PC7	Md. Samrat Ali	14
-P1	PS	PF5	Durjoy kumar sarkar	11
-P1	PS	PX6	Md. Imran Hossin	7
-P1	PS	QK2	Sojon Khan	1
-P1	PT	PA3	Md. Mazharul Islam	9
-P1	PT	PC9	Mr. Md. Sirajul Islam	5
-P1	PT	PD1	MD. MINTU RAHMAN	6
-P1	PT	PJ2	Mr. Md. Shahinur Islam	7
-P1	PT	PL4	Md. Raju Ahammed	1
-P1	PT	PP6	Mr. Md. Alamgir Kabir	13
-P1	PT	QI3	Mr. Md. Nazim Uddin	10
-P1	PT	QK1	Md. NESARUDDIN	2
-P1	QR	PA6	Md. Zahirul Islam	20
-P1	QR	PC8	Md. Sazzat Hossain	14
-P1	QR	PK4	Abdullah Al Noman	53
-P1	QR	PO7	Md. Khalilur Rahman Munna	48
-P1	QR	PZ5	Md. Hasan Sarkar	36
-P1	QR	QH8	Md. Nazmul Hasan	12
-P2	LC	PK5	Mr. Rabiul Islam	8
-P2	LC	PL3	Mr. Prince Kamrul Hasan	19
-P2	LC	PR1	Md. Masud Rana	22
-P2	PV	PB4	Md.Mahmudul Hasan	5
-P2	PV	PB8	Md. Abdus Sakur Tarufdar	12
-P2	PV	PD6	Jayed Ahmed	4
-P2	PV	PD7	Md. Alomgir Islam	5
-P2	PV	PS3	Amit Kumar Saha	18
-P2	PV	PX5	Md. Riaz Hossain	16
-P2	PV	QA6	Md. Al Amin	0
-P2	PV	QG9	Tasnim Alom	3
-P2	PW	PA9	Mr. Md. S. R. Reku	4
-P2	PW	PB1	Mr. Mohammad Anower Hossen	6
-P2	PW	PB5	Rezaul Islam	3
-P2	PW	PB7	Mr. Md. Shahinur Rahman	6
-P2	PW	PH3	Habibur Rahman	1
-P2	PW	PY6	Abdul Majed	7
-P2	PX	PA4	Md. Rasel Mahmud	7
-P2	PX	PC3	Mr. Sheikh Zahid Rahman	1
-P2	PX	PP9	Mr. Arif	8
-P2	PX	PZ1	MR. KAZI ABDUL AL MAMUN	41
-P2	PX	QD1	Md. Sajedul Islam	1
-P2	PX	QE9	Mohammad Mazibul Islam	26
-P2	QB	PB9	Md. Monirul Islam Mehedi	12
-P2	QB	PD5	Md. Shohanur Rahman	17
-P2	QB	PJ6	Md. Nishad	5
-P2	QB	PL5	Md. Tanjir Rahman	1
-P2	QB	PN6	Alimul Islam	3
-P2	QB	PO1	Md. Repon Miah	1
-P2	QB	PP2	Abdul Momen	8
-P2	QL	PF6	Mr. Md. Sakib Hasan	5
-P2	QL	PL9	Md. Humayun Kabir	4
-P2	QL	PP3	Md. Slwadlin Al Hasan	5
-P2	QL	PW8	Mr. Shofikur Rahman	0
-P2	QL	PZ7	Tamim Ahmed	6
-P2	QL	QE2	Md. Sadrul Alam	4
-P3	LE	PK2	Md. Rocky Hasan	16
-P3	LE	PO2	Vacant	17
-P3	LE	PS6	Md. Tanzir Hossain	3
-P3	LE	PV7	Md. Jamil Hossan	19
-P3	LE	QB5	Ridoy Mollik	10
-P3	PD	PG5	Alomgir Hossen	13
-P3	PD	PG7	Md. Ferdous Rahman	5
-P3	PD	QB6	Md. Amirul Islam	0
-P3	PD	QD8	Mr. Jahedul Islam	4
-P3	PD	QK5	Rakibul Hasan	4
-P3	PZ	PG3	Md. Sadman Rafsan Khan	0
-P3	PZ	PG4	Mr. Md. Ajharul Islam	16
-P3	PZ	PN7	Md. Sohel Rana	26
-P3	PZ	PP8	Mr. Shahin Ali	5
-P3	PZ	PS4	Mr. Kazi Ashraful Alam	8
-P3	PZ	QI7	Mr. Ahsan Ali	8
-P3	QD	PG8	Md. Jubair Hossen	6
-P3	QD	PJ4	Md. Sujon Mia	2
-P3	QD	PX4	Md. Jasim Uddin	1
-P3	QD	QE1	Md. Seyam Hossain	5
-P3	QD	QE7	Nure Alam	1
-P3	QH	PM5	Mr. Shakil Ahammed	18
-P3	QH	PQ8	Rasedul Islam	11
-P3	QH	PV5	Mr. Md. Nurul Alam	3
-P3	QH	QF6	Md. Saidul Hasan	17
-P3	QH	QJ6	Mr. Shidul Islam	0
-P3	QK	PS5	Mr. Md. Abdur Razzak	9
-P3	QK	PW9	Md. Masud Rana	4
-P3	QK	PX8	Abul Kalam Azad	1
-P3	QK	QB8	MR. JOSIM UDDIN FORHAD	11
-P3	QK	QD3	Biswajit Kumar Kar	6
-P3	QK	QE3	Md. Shuvo Ahmmed	5
-P3	QN	PG6	Chandan Kumer Paul	4
-P3	QN	PN2	Md. Liton Hossain	5
-P3	QN	PS7	Md. Omar Faruque	16
-P3	QN	PW2	Md. Motahar Hosain	2
-P3	QN	QC3	Ashish Kumar Roy	2
-P3	QN	QL3	Sheikh Alamgir Hossan	4
-P4	LG	PD4	Syed Tuhin Reza	9
-P4	LG	PY9	Mr. Nura Alam	25
-P4	LG	QJ1	Md. Abdul Wahed	8
-P4	PA	PD8	Md. Saiful Islam	10
-P4	PA	PD9	Mr. Md. Ahid Mahmud	3
-P4	PA	PM8	MD. SAIFULLAH ZOARDER	21
-P4	PA	PR2	Sree Shavo Chakra Borti	23
-P4	PA	PZ8	Md. Shahidul Islam	17
-P4	PB	PA7	Mr. Milon Khan	4
-P4	PB	PL1	Md. Ali Ahmmed	5
-P4	PB	PL8	Md. Faisal Hasan	16
-P4	PB	PN1	Shaharia Hasan (Raj)	22
-P4	PB	PP1	Md. Juwel Rana	34
-P4	PB	PR5	Md. Monjur Hossain	12
-P4	PB	QJ3	Md. Ripon Hossain	7
-P4	PU	PA5	Mr. Abdullah Al Habib	6
-P4	PU	PB3	Mr. Parvej	5
-P4	PU	PD2	Md. Robiul Islam Anik	4
-P4	PU	PJ1	Md. Samiul Haque	6
-P4	PU	PO4	Md. Sulaiman Akash	9
-P4	PU	PY1	MR. MD. MIZANUR RAHMAN	4
-P4	QM	PA8	Mr. Md. Suzan Ali	4
-P4	QM	PB6	Mr. Md. Robiul Islam	6
-P4	QM	PP5	Md. Yeasir Ali	6
-P4	QM	PY2	MR. BACHHU BAIRAGI	4
-P4	QM	QJ2	Mr. Fazle Rabbi	0
-P4	QX	PD3	MD. RAFIQUL ISLAM	18
-P4	QX	PJ5	MR. MD. MAHMUD OR RASHID	5
-P4	QX	PZ4	Mr. Sohag Mollah	9
-P4	QX	QH7	Md. Tanzil Hossain	21
-P4	QX	QI5	Md. Manirul Islam	6
-P5	PF	PE4	Tanvir Ahmed	19
-P5	PF	PQ6	MD. MOHSHIN ALOM	12
-P5	PF	PT1	Md. Abu Kawser	4
-P5	PF	PY8	Sumon Sarker	16
-P5	PF	QC5	Md. Habibur Rahman	3
-P5	PF	QF3	Md. Mozammal Haq	1
-P5	PF	QG1	Mahbubur Rahman	14
-P5	PF	QG2	Md. Atikur Rahman	18
-P5	PF	QJ4	Md. Rafiqul Islam	20
-P5	PF	QJ9	Mr. Nobel Sarker	19
-P5	PK	PE1	Avishik Kormoker	56
-P5	PK	PS1	Mr. Md. Omar Faruk	52
-P5	PK	PU2	Mr. Md. Sumon Ahmed	21
-P5	PK	PV2	Mr. Md. Mehedi Hachan	7
-P5	PK	QA1	Khandaker Eiar Mahmud	42
-P5	PK	QC7	Md. Rasheduzzaman	20
-P5	QG	PE5	Sony Palit	41
-P5	QG	PT2	Md. Shakib Hasan	28
-P5	QG	PU1	Mr. Md. Maruf Hossain	34
-P5	QG	QA8	Md. Nurnabi Islam	54
-P5	QG	QK7	Md. Masum Mia	34
-P5	QG	QL7	Mr. Sanuar Jahan Khan	10
-P5	QT	PC1	Md. Sharif Hossain	6
-P5	QT	PE2	Md. Shariful Islam	17
-P5	QT	PQ5	Mr. Suruj Ahmed	20
-P5	QT	PZ6	Md. Jamal Uddin	21
-P5	QT	QG6	Md. Hamidur Rahman	14
-P5	QT	QG8	Md. Shah Paran	5
-P6	LA	PQ1	Md. Ibrahim Hossen	8
-P6	LA	PR6	M. Mahfujul Hasan	21
-P6	LA	QA4	Md. Mahadi Islam	13
-P6	LA	QD6	Md. Yousuf Ali	19
-P6	LA	QH9	Abdullah Al Noman	12
-P6	PE	PF8	Sajib Saha	5
-P6	PE	PK9	Md. Hasibul Islam	28
-P6	PE	PV6	Mr. Mohammad Ismail Hossain	18
-P6	PE	QB4	Adabul Apple	16
-P6	PE	QB9	Vacant	9
-P6	PE	QE6	Md. Shafiqul Islam	32
-P6	PE	QK9	Bibhu Kumer Ray	21
-P6	PN	PF4	Md. Parvez Alam	12
-P6	PN	PO3	Md. Rajibul Islam	14
-P6	PN	PQ2	Md. Ibrahim Patwary	9
-P6	PN	PR7	Mr. Md. Iqbal Hossain	16
-P6	PN	PV3	Mr. Md. Juel Molla	25
-P6	PN	PW6	Md. Zulker Nine	24
-P6	PN	PY7	Mr. Md. Hafizur Rahman	25
-P6	PY	PF2	Md. Abu Sayem Sabooz	13
-P6	PY	PF3	Shampad Saha	3
-P6	PY	PU4	Mr. Kazi Emam	12
-P6	PY	QE4	Horidas Roy	7
-P6	PY	QI6	Mr. Abdul Alim	8
-P6	QI	PF7	Md. Yaseer Arafat	21
-P6	QI	PQ3	Mr. MR. ASIKUJJAMAN	17
-P6	QI	PR9	Naeful Islam Riad	2
-P6	QI	PU6	Rafat Ahmad	35
-P6	QI	PU9	Md. Nazmul Alam	66
-P6	QI	QG7	Muha Mithun Ali	28
-P7	LB	PH6	Yeasir Mohammad Shamim Bhuiyan	13
-P7	LB	PJ3	Md. Mizanur Rahman	26
-P7	LB	QE5	Md. Elius Sheikh	12
-P7	LB	QF9	Sujon Kumer Paul	16
-P7	LB	QJ8	Mr. Mahfuj Ahamed	27
-P7	PQ	PE7	Md. Al-Amin	30
-P7	PQ	PO5	Mr. Uzzal Mia	12
-P7	PQ	PO6	Bipul Ali	2
-P7	PQ	PU5	Md. Tarek Rahman	8
-P7	PQ	PW3	Mr. Md. Ariful Islam	100
-P7	PQ	PY3	Md. Humaun Ahmad	20
-P7	PQ	QH2	Md. Shafiqul Islam	22
-P7	PR	PF9	Mr. Mustakim Haque Rabbi	5
-P7	PR	PG2	Md. Ajijul Islam	3
-P7	PR	PW4	Md. Raihan	1
-P7	PR	PX2	Nurujjaman Ahmed	9
-P7	PR	PY5	MR. MIZANUR RAHMAN	20
-P7	PR	QF4	Abu Raihan	9
-P7	QC	PE8	Md. Kaicharr Ahmed	9
-P7	QC	PG1	Mr. Md. Mahbubur Rahman	13
-P7	QC	PR4	Md. Mithun Hossain	44
-P7	QC	PZ2	Mr. Moshahid Buiyhan	56
-P7	QC	QB3	Taskinur Rahman Khandkar	22
-P7	QC	QD5	G. K. M. Shakhawat Hossen	15
-P7	QO	PE6	Mr. Mehedi Hasan	35
-P7	QO	PQ4	Mr. Uzzal	2
-P7	QO	PT7	Palash Rana	19
-P7	QO	QA7	Bishwanath Mondal	19
-P7	QO	QH3	Saruar Hossain	67
-P7	QY	PI9	Md. Mahabur Rahman Shah	4
-P7	QY	PT5	Mr. Md. Amanullah Aman	22
-P7	QY	PT6	Mr. Md. Mizanur Rahman	7
-P7	QY	PY4	Md. Akhlasur Rahman	12
-P8	PJ	PH9	Md. Kamrul Islam	8
-P8	PJ	PK1	Md. Mahafizur Rahman	0
-P8	PJ	PS9	Md. Asaduzzaman Khokon	2
-P8	PJ	QA5	Rased Hossain	21
-P8	PJ	QC2	Md. Manirul Islam	5
-P8	PJ	QI8	Chittro Ronzan Roy	10
-P8	PJ	QL4	Md. Sohanur Islam	9
-P8	PM	PI4	Mr. Shaown Saha	3
-P8	PM	PN4	MR. ARMAN ALI	5
-P8	PM	PT9	Mahedi Hasan	13
-P8	PM	QD9	Md. Juwel Rana	4
-P8	PM	QJ5	Md. Shourov Shekh	3
-P8	QE	PA2	Mr. Md. Razibur Rahman	3
-P8	QE	PI2	Md. Saikat Ali	2
-P8	QE	PI3	MD. SADHAN KUMAR SARKER	6
-P8	QE	PN3	Md. Tofazzal Hossan	24
-P8	QE	PW7	Md. Rabbey Pramanik	11
-P8	QE	PZ3	Nahidul Islam	5
-P8	QE	QC9	Md. Nazmul Islam	9
-P8	QE	QG3	Md. Rockybul Islam	2
-P8	QE	QG4	Md. Repon Ali	3
-P8	QP	PI1	Vacant	6
-P8	QP	PO9	Md. Yeasin Ali	3
-P8	QP	PP4	Md. Golam Rabbani	6
-P8	QP	PU8	Md. Faisal Ahmed	6
-P8	QP	QD7	Maminul Islam	9
-P8	QP	QH6	Md. Juwel Hassan	1
-P8	QP	QI9	Mr. Romel Hossain	15
-P8	QS	PI5	Md. Rajibul Islam	4
-P8	QS	PJ9	Md. Mehedi Hasan	6
-P8	QS	QB1	Md. Sultan Mahmud Arif	8
-P8	QS	QF7	Shake Mosiur Rahman	8
-P8	QS	QJ7	Md. Humayun Kabir	14
-P9	LF	PM1	Saikat Islam	25
-P9	LF	PM2	Abdullah Al Mamun	6
-P9	LF	PU3	Rezaul Karim	28
-P9	LF	QC1	Md. Anisur Rahman	4
-P9	PH	PE9	Mr. Abu Sufian Mahfuj	6
-P9	PH	PJ8	Mr. Md. Parvez Hasan	8
-P9	PH	PK7	Mr. Enayet Sharif	33
-P9	PH	PU7	Mohammad Abdul Ahad	5
-P9	PH	QA3	Mr. Chandan Saha	6
-P9	PH	QD4	Md. Ashik-Ul Gony	3
-P9	PH	QH1	Md. Tuhin Mia	4
-P9	PL	PF1	Md. Rabbi Sikder	70
-P9	PL	PJ7	Abraham Lincoln	68
-P9	PL	PM7	Md. Burhan Uddin	44
-P9	PL	QB2	Protic Datta	25
-P9	PL	QF5	Omit Sarker	19
-P9	PL	QG5	Imran Molla	13
-P9	QJ	PA1	Mr. Omar Faruque	11
-P9	QJ	PM4	Md. Ejaharul Islam	7
-P9	QJ	PO8	Tapojati Biswas	5
-P9	QJ	PP7	MR. G.M. SAYKAT	7
-P9	QJ	PW5	Mr. Md. Nazmul Hasan	6
-P9	QJ	PX9	Md. Shohage Hossain	8
-P9	QJ	QF8	Tanim Molla	8
-P9	QU	PM6	Mr. Md. Tuhin	14
-P9	QU	PR8	Md. Mahabubur Rahaman	12
-P9	QU	PV4	Md. Khalid Hasan	2
-P9	QU	QE8	Md. Abu Sayed	10
-P9	QU	QK8	Chiranjit Das	4
-Q1	LI	QL2	Mr. Robiul Islam as PSO Prisma	5
-Q1	PG	PG9	Md. Firoz Ahmed	15
-Q1	PG	PM9	Md. Shomser Ali	2
-Q1	PG	PS2	Md. Taohid Khan	2
-Q1	PG	PT3	Mr. Md. Monirul Islam	18
-Q1	PG	QI4	Mr. Md. Didar Mollah	3
-Q1	PI	PH7	Sreekanta Biswas	19
-Q1	PI	PK8	Saiful Islam	8
-Q1	PI	PN8	Md. Mizanur Rahman	14
-Q1	PI	PQ7	Md. Mahbub Hasan	16
-Q1	PI	PW1	Muhammad Mahmudul Hasan	24
-Q1	PI	PX3	Md. Kawser Hosain	8
-Q1	PI	QA9	Md. Amirul Islam	82
-Q1	PI	QC6	Md. Mehedi Hasan	45
-Q1	PI	QF2	Mintu Bairagi	22
-Q1	QF	PH2	Md. Atiqur Rahman	28
-Q1	QF	PH8	MR. A.K.M. AHSHAN HABIB	0
-Q1	QF	PN9	Md. Mazadul Islam	5
-Q1	QF	PQ9	Mr. Abdur Rahman	1
-Q1	QF	PT8	MR. ABDUR RAUF	13
-Q1	QF	QA2	Sajal Roy	2
-Q1	QF	QB7	Tanzirul Haq	18
-Q1	QF	QD2	Saddam Hossain	17
-Q1	QZ	PH4	Chandan Kumar Roy	4
-Q1	QZ	PH5	Md. Abu Hasan	10
-Q1	QZ	PT4	MD. MINTU BISWAS	13
-Q1	QZ	PZ9	MR. UZZAL SARKER	38
-Q1	QZ	QC4	Anup Mondal	6
-Q2	LD	PK3	Md. Abdus Satter	17
-Q2	LD	PM3	Md. Bappy Chowdhury	13
-Q2	LD	PV8	Mr. Md. Mahfuj Khabir	13
-Q2	LD	QH5	Md. Abul Hossain	0
-Q2	PO	PI8	Md. Forhad Hossan	2
-Q2	PO	PR3	MR. Razu Ahmed	20
-Q2	PO	PV9	Mr. Md. Tajmul Alom	5
-Q2	PO	PX7	Md. Mostafizur Rahman	5
-Q2	PO	QH4	Md. Rayhan Kabir Rasul	1
-Q2	QA	PI6	Washkorunee	17
-Q2	QA	PI7	Md. Rifat Hossain	33
-Q2	QA	PV1	Mr. Rafiqul Islam	1
-Q2	QA	PX1	Md. Shahzada	3
-Q2	QA	QI2	Md. Rajib Ali	6
-Q2	QV	PK6	Md. Zaharul Islam	14
-Q2	QV	PL2	Slhabuddin	2
-Q2	QV	PS8	Mr. Md. Nur Islam	1
-Q2	QV	QF1	Md. Lutfar Rahman	6
+P1,PC,PB2,Md. Sajjat Hossain Sobuj,10
+P1,PC,PE3,Md. Kamal Hosen,16
+P1,PC,PL6,Md. Titul Mia,5
+P1,PC,PL7,Md. Salim Reza,19
+P1,PC,QC8,Md. Abdul Aziz,23
+P1,PC,QK4,Md. Mostafizur Rahman,34
+P1,PP,PH1,Mr. Md. Joynal Abedin as PSO Prisma,0
+P1,PS,PC2,Md. Al Amin,18
+P1,PS,PC4,Md. Rubel Mondol,10
+P1,PS,PC5,MR. ANISUR RAHAMAN BISWAS,18
+P1,PS,PC6,Mr. Md. Imran Hossain,21
+P1,PS,PC7,Md. Samrat Ali,14
+P1,PS,PF5,Durjoy kumar sarkar,11
+P1,PS,PX6,Md. Imran Hossin,7
+P1,PS,QK2,Sojon Khan,1
+P1,PT,PA3,Md. Mazharul Islam,9
+P1,PT,PC9,Mr. Md. Sirajul Islam,5
+P1,PT,PD1,MD. MINTU RAHMAN,6
+P1,PT,PJ2,Mr. Md. Shahinur Islam,7
+P1,PT,PL4,Md. Raju Ahammed,1
+P1,PT,PP6,Mr. Md. Alamgir Kabir,13
+P1,PT,QI3,Mr. Md. Nazim Uddin,10
+P1,PT,QK1,Md. NESARUDDIN,2
+P1,QR,PA6,Md. Zahirul Islam,20
+P1,QR,PC8,Md. Sazzat Hossain,14
+P1,QR,PK4,Abdullah Al Noman,53
+P1,QR,PO7,Md. Khalilur Rahman Munna,48
+P1,QR,PZ5,Md. Hasan Sarkar,36
+P1,QR,QH8,Md. Nazmul Hasan,12
+P2,LC,PK5,Mr. Rabiul Islam,8
+P2,LC,PL3,Mr. Prince Kamrul Hasan,19
+P2,LC,PR1,Md. Masud Rana,22
+P2,PV,PB4,Md.Mahmudul Hasan,5
+P2,PV,PB8,Md. Abdus Sakur Tarufdar,12
+P2,PV,PD6,Jayed Ahmed,4
+P2,PV,PD7,Md. Alomgir Islam,5
+P2,PV,PS3,Amit Kumar Saha,18
+P2,PV,PX5,Md. Riaz Hossain,16
+P2,PV,QA6,Md. Al Amin,0
+P2,PV,QG9,Tasnim Alom,3
+P2,PW,PA9,Mr. Md. S. R. Reku,4
+P2,PW,PB1,Mr. Mohammad Anower Hossen,6
+P2,PW,PB5,Rezaul Islam,3
+P2,PW,PB7,Mr. Md. Shahinur Rahman,6
+P2,PW,PH3,Habibur Rahman,1
+P2,PW,PY6,Abdul Majed,7
+P2,PX,PA4,Md. Rasel Mahmud,7
+P2,PX,PC3,Mr. Sheikh Zahid Rahman,1
+P2,PX,PP9,Mr. Arif,8
+P2,PX,PZ1,MR. KAZI ABDUL AL MAMUN,41
+P2,PX,QD1,Md. Sajedul Islam,1
+P2,PX,QE9,Mohammad Mazibul Islam,26
+P2,QB,PB9,Md. Monirul Islam Mehedi,12
+P2,QB,PD5,Md. Shohanur Rahman,17
+P2,QB,PJ6,Md. Nishad,5
+P2,QB,PL5,Md. Tanjir Rahman,1
+P2,QB,PN6,Alimul Islam,3
+P2,QB,PO1,Md. Repon Miah,1
+P2,QB,PP2,Abdul Momen,8
+P2,QL,PF6,Mr. Md. Sakib Hasan,5
+P2,QL,PL9,Md. Humayun Kabir,4
+P2,QL,PP3,Md. Slwadlin Al Hasan,5
+P2,QL,PW8,Mr. Shofikur Rahman,0
+P2,QL,PZ7,Tamim Ahmed,6
+P2,QL,QE2,Md. Sadrul Alam,4
+P3,LE,PK2,Md. Rocky Hasan,16
+P3,LE,PO2,Vacant,17
+P3,LE,PS6,Md. Tanzir Hossain,3
+P3,LE,PV7,Md. Jamil Hossan,19
+P3,LE,QB5,Ridoy Mollik,10
+P3,PD,PG5,Alomgir Hossen,13
+P3,PD,PG7,Md. Ferdous Rahman,5
+P3,PD,QB6,Md. Amirul Islam,0
+P3,PD,QD8,Mr. Jahedul Islam,4
+P3,PD,QK5,Rakibul Hasan,4
+P3,PZ,PG3,Md. Sadman Rafsan Khan,0
+P3,PZ,PG4,Mr. Md. Ajharul Islam,16
+P3,PZ,PN7,Md. Sohel Rana,26
+P3,PZ,PP8,Mr. Shahin Ali,5
+P3,PZ,PS4,Mr. Kazi Ashraful Alam,8
+P3,PZ,QI7,Mr. Ahsan Ali,8
+P3,QD,PG8,Md. Jubair Hossen,6
+P3,QD,PJ4,Md. Sujon Mia,2
+P3,QD,PX4,Md. Jasim Uddin,1
+P3,QD,QE1,Md. Seyam Hossain,5
+P3,QD,QE7,Nure Alam,1
+P3,QH,PM5,Mr. Shakil Ahammed,18
+P3,QH,PQ8,Rasedul Islam,11
+P3,QH,PV5,Mr. Md. Nurul Alam,3
+P3,QH,QF6,Md. Saidul Hasan,17
+P3,QH,QJ6,Mr. Shidul Islam,0
+P3,QK,PS5,Mr. Md. Abdur Razzak,9
+P3,QK,PW9,Md. Masud Rana,4
+P3,QK,PX8,Abul Kalam Azad,1
+P3,QK,QB8,MR. JOSIM UDDIN FORHAD,11
+P3,QK,QD3,Biswajit Kumar Kar,6
+P3,QK,QE3,Md. Shuvo Ahmmed,5
+P3,QN,PG6,Chandan Kumer Paul,4
+P3,QN,PN2,Md. Liton Hossain,5
+P3,QN,PS7,Md. Omar Faruque,16
+P3,QN,PW2,Md. Motahar Hosain,2
+P3,QN,QC3,Ashish Kumar Roy,2
+P3,QN,QL3,Sheikh Alamgir Hossan,4
+P4,LG,PD4,Syed Tuhin Reza,9
+P4,LG,PY9,Mr. Nura Alam,25
+P4,LG,QJ1,Md. Abdul Wahed,8
+P4,PA,PD8,Md. Saiful Islam,10
+P4,PA,PD9,Mr. Md. Ahid Mahmud,3
+P4,PA,PM8,MD. SAIFULLAH ZOARDER,21
+P4,PA,PR2,Sree Shavo Chakra Borti,23
+P4,PA,PZ8,Md. Shahidul Islam,17
+P4,PB,PA7,Mr. Milon Khan,4
+P4,PB,PL1,Md. Ali Ahmmed,5
+P4,PB,PL8,Md. Faisal Hasan,16
+P4,PB,PN1,Shaharia Hasan (Raj),22
+P4,PB,PP1,Md. Juwel Rana,34
+P4,PB,PR5,Md. Monjur Hossain,12
+P4,PB,QJ3,Md. Ripon Hossain,7
+P4,PU,PA5,Mr. Abdullah Al Habib,6
+P4,PU,PB3,Mr. Parvej,5
+P4,PU,PD2,Md. Robiul Islam Anik,4
+P4,PU,PJ1,Md. Samiul Haque,6
+P4,PU,PO4,Md. Sulaiman Akash,9
+P4,PU,PY1,MR. MD. MIZANUR RAHMAN,4
+P4,QM,PA8,Mr. Md. Suzan Ali,4
+P4,QM,PB6,Mr. Md. Robiul Islam,6
+P4,QM,PP5,Md. Yeasir Ali,6
+P4,QM,PY2,MR. BACHHU BAIRAGI,4
+P4,QM,QJ2,Mr. Fazle Rabbi,0
+P4,QX,PD3,MD. RAFIQUL ISLAM,18
+P4,QX,PJ5,MR. MD. MAHMUD OR RASHID,5
+P4,QX,PZ4,Mr. Sohag Mollah,9
+P4,QX,QH7,Md. Tanzil Hossain,21
+P4,QX,QI5,Md. Manirul Islam,6
+P5,PF,PE4,Tanvir Ahmed,19
+P5,PF,PQ6,MD. MOHSHIN ALOM,12
+P5,PF,PT1,Md. Abu Kawser,4
+P5,PF,PY8,Sumon Sarker,16
+P5,PF,QC5,Md. Habibur Rahman,3
+P5,PF,QF3,Md. Mozammal Haq,1
+P5,PF,QG1,Mahbubur Rahman,14
+P5,PF,QG2,Md. Atikur Rahman,18
+P5,PF,QJ4,Md. Rafiqul Islam,20
+P5,PF,QJ9,Mr. Nobel Sarker,19
+P5,PK,PE1,Avishik Kormoker,56
+P5,PK,PS1,Mr. Md. Omar Faruk,52
+P5,PK,PU2,Mr. Md. Sumon Ahmed,21
+P5,PK,PV2,Mr. Md. Mehedi Hachan,7
+P5,PK,QA1,Khandaker Eiar Mahmud,42
+P5,PK,QC7,Md. Rasheduzzaman,20
+P5,QG,PE5,Sony Palit,41
+P5,QG,PT2,Md. Shakib Hasan,28
+P5,QG,PU1,Mr. Md. Maruf Hossain,34
+P5,QG,QA8,Md. Nurnabi Islam,54
+P5,QG,QK7,Md. Masum Mia,34
+P5,QG,QL7,Mr. Sanuar Jahan Khan,10
+P5,QT,PC1,Md. Sharif Hossain,6
+P5,QT,PE2,Md. Shariful Islam,17
+P5,QT,PQ5,Mr. Suruj Ahmed,20
+P5,QT,PZ6,Md. Jamal Uddin,21
+P5,QT,QG6,Md. Hamidur Rahman,14
+P5,QT,QG8,Md. Shah Paran,5
+P6,LA,PQ1,Md. Ibrahim Hossen,8
+P6,LA,PR6,M. Mahfujul Hasan,21
+P6,LA,QA4,Md. Mahadi Islam,13
+P6,LA,QD6,Md. Yousuf Ali,19
+P6,LA,QH9,Abdullah Al Noman,12
+P6,PE,PF8,Sajib Saha,5
+P6,PE,PK9,Md. Hasibul Islam,28
+P6,PE,PV6,Mr. Mohammad Ismail Hossain,18
+P6,PE,QB4,Adabul Apple,16
+P6,PE,QB9,Vacant,9
+P6,PE,QE6,Md. Shafiqul Islam,32
+P6,PE,QK9,Bibhu Kumer Ray,21
+P6,PN,PF4,Md. Parvez Alam,12
+P6,PN,PO3,Md. Rajibul Islam,14
+P6,PN,PQ2,Md. Ibrahim Patwary,9
+P6,PN,PR7,Mr. Md. Iqbal Hossain,16
+P6,PN,PV3,Mr. Md. Juel Molla,25
+P6,PN,PW6,Md. Zulker Nine,24
+P6,PN,PY7,Mr. Md. Hafizur Rahman,25
+P6,PY,PF2,Md. Abu Sayem Sabooz,13
+P6,PY,PF3,Shampad Saha,3
+P6,PY,PU4,Mr. Kazi Emam,12
+P6,PY,QE4,Horidas Roy,7
+P6,PY,QI6,Mr. Abdul Alim,8
+P6,QI,PF7,Md. Yaseer Arafat,21
+P6,QI,PQ3,Mr. MR. ASIKUJJAMAN,17
+P6,QI,PR9,Naeful Islam Riad,2
+P6,QI,PU6,Rafat Ahmad,35
+P6,QI,PU9,Md. Nazmul Alam,66
+P6,QI,QG7,Muha Mithun Ali,28
+P7,LB,PH6,Yeasir Mohammad Shamim Bhuiyan,13
+P7,LB,PJ3,Md. Mizanur Rahman,26
+P7,LB,QE5,Md. Elius Sheikh,12
+P7,LB,QF9,Sujon Kumer Paul,16
+P7,LB,QJ8,Mr. Mahfuj Ahamed,27
+P7,PQ,PE7,Md. Al-Amin,30
+P7,PQ,PO5,Mr. Uzzal Mia,12
+P7,PQ,PO6,Bipul Ali,2
+P7,PQ,PU5,Md. Tarek Rahman,8
+P7,PQ,PW3,Mr. Md. Ariful Islam,100
+P7,PQ,PY3,Md. Humaun Ahmad,20
+P7,PQ,QH2,Md. Shafiqul Islam,22
+P7,PR,PF9,Mr. Mustakim Haque Rabbi,5
+P7,PR,PG2,Md. Ajijul Islam,3
+P7,PR,PW4,Md. Raihan,1
+P7,PR,PX2,Nurujjaman Ahmed,9
+P7,PR,PY5,MR. MIZANUR RAHMAN,20
+P7,PR,QF4,Abu Raihan,9
+P7,QC,PE8,Md. Kaicharr Ahmed,9
+P7,QC,PG1,Mr. Md. Mahbubur Rahman,13
+P7,QC,PR4,Md. Mithun Hossain,44
+P7,QC,PZ2,Mr. Moshahid Buiyhan,56
+P7,QC,QB3,Taskinur Rahman Khandkar,22
+P7,QC,QD5,G. K. M. Shakhawat Hossen,15
+P7,QO,PE6,Mr. Mehedi Hasan,35
+P7,QO,PQ4,Mr. Uzzal,2
+P7,QO,PT7,Palash Rana,19
+P7,QO,QA7,Bishwanath Mondal,19
+P7,QO,QH3,Saruar Hossain,67
+P7,QY,PI9,Md. Mahabur Rahman Shah,4
+P7,QY,PT5,Mr. Md. Amanullah Aman,22
+P7,QY,PT6,Mr. Md. Mizanur Rahman,7
+P7,QY,PY4,Md. Akhlasur Rahman,12
+P8,PJ,PH9,Md. Kamrul Islam,8
+P8,PJ,PK1,Md. Mahafizur Rahman,0
+P8,PJ,PS9,Md. Asaduzzaman Khokon,2
+P8,PJ,QA5,Rased Hossain,21
+P8,PJ,QC2,Md. Manirul Islam,5
+P8,PJ,QI8,Chittro Ronzan Roy,10
+P8,PJ,QL4,Md. Sohanur Islam,9
+P8,PM,PI4,Mr. Shaown Saha,3
+P8,PM,PN4,MR. ARMAN ALI,5
+P8,PM,PT9,Mahedi Hasan,13
+P8,PM,QD9,Md. Juwel Rana,4
+P8,PM,QJ5,Md. Shourov Shekh,3
+P8,QE,PA2,Mr. Md. Razibur Rahman,3
+P8,QE,PI2,Md. Saikat Ali,2
+P8,QE,PI3,MD. SADHAN KUMAR SARKER,6
+P8,QE,PN3,Md. Tofazzal Hossan,24
+P8,QE,PW7,Md. Rabbey Pramanik,11
+P8,QE,PZ3,Nahidul Islam,5
+P8,QE,QC9,Md. Nazmul Islam,9
+P8,QE,QG3,Md. Rockybul Islam,2
+P8,QE,QG4,Md. Repon Ali,3
+P8,QP,PI1,Vacant,6
+P8,QP,PO9,Md. Yeasin Ali,3
+P8,QP,PP4,Md. Golam Rabbani,6
+P8,QP,PU8,Md. Faisal Ahmed,6
+P8,QP,QD7,Maminul Islam,9
+P8,QP,QH6,Md. Juwel Hassan,1
+P8,QP,QI9,Mr. Romel Hossain,15
+P8,QS,PI5,Md. Rajibul Islam,4
+P8,QS,PJ9,Md. Mehedi Hasan,6
+P8,QS,QB1,Md. Sultan Mahmud Arif,8
+P8,QS,QF7,Shake Mosiur Rahman,8
+P8,QS,QJ7,Md. Humayun Kabir,14
+P9,LF,PM1,Saikat Islam,25
+P9,LF,PM2,Abdullah Al Mamun,6
+P9,LF,PU3,Rezaul Karim,28
+P9,LF,QC1,Md. Anisur Rahman,4
+P9,PH,PE9,Mr. Abu Sufian Mahfuj,6
+P9,PH,PJ8,Mr. Md. Parvez Hasan,8
+P9,PH,PK7,Mr. Enayet Sharif,33
+P9,PH,PU7,Mohammad Abdul Ahad,5
+P9,PH,QA3,Mr. Chandan Saha,6
+P9,PH,QD4,Md. Ashik-Ul Gony,3
+P9,PH,QH1,Md. Tuhin Mia,4
+P9,PL,PF1,Md. Rabbi Sikder,70
+P9,PL,PJ7,Abraham Lincoln,68
+P9,PL,PM7,Md. Burhan Uddin,44
+P9,PL,QB2,Protic Datta,25
+P9,PL,QF5,Omit Sarker,19
+P9,PL,QG5,Imran Molla,13
+P9,QJ,PA1,Mr. Omar Faruque,11
+P9,QJ,PM4,Md. Ejaharul Islam,7
+P9,QJ,PO8,Tapojati Biswas,5
+P9,QJ,PP7,MR. G.M. SAYKAT,7
+P9,QJ,PW5,Mr. Md. Nazmul Hasan,6
+P9,QJ,PX9,Md. Shohage Hossain,8
+P9,QJ,QF8,Tanim Molla,8
+P9,QU,PM6,Mr. Md. Tuhin,14
+P9,QU,PR8,Md. Mahabubur Rahaman,12
+P9,QU,PV4,Md. Khalid Hasan,2
+P9,QU,QE8,Md. Abu Sayed,10
+P9,QU,QK8,Chiranjit Das,4
+Q1,LI,QL2,Mr. Robiul Islam as PSO Prisma,5
+Q1,PG,PG9,Md. Firoz Ahmed,15
+Q1,PG,PM9,Md. Shomser Ali,2
+Q1,PG,PS2,Md. Taohid Khan,2
+Q1,PG,PT3,Mr. Md. Monirul Islam,18
+Q1,PG,QI4,Mr. Md. Didar Mollah,3
+Q1,PI,PH7,Sreekanta Biswas,19
+Q1,PI,PK8,Saiful Islam,8
+Q1,PI,PN8,Md. Mizanur Rahman,14
+Q1,PI,PQ7,Md. Mahbub Hasan,16
+Q1,PI,PW1,Muhammad Mahmudul Hasan,24
+Q1,PI,PX3,Md. Kawser Hosain,8
+Q1,PI,QA9,Md. Amirul Islam,82
+Q1,PI,QC6,Md. Mehedi Hasan,45
+Q1,PI,QF2,Mintu Bairagi,22
+Q1,QF,PH2,Md. Atiqur Rahman,28
+Q1,QF,PH8,MR. A.K.M. AHSHAN HABIB,0
+Q1,QF,PN9,Md. Mazadul Islam,5
+Q1,QF,PQ9,Mr. Abdur Rahman,1
+Q1,QF,PT8,MR. ABDUR RAUF,13
+Q1,QF,QA2,Sajal Roy,2
+Q1,QF,QB7,Tanzirul Haq,18
+Q1,QF,QD2,Saddam Hossain,17
+Q1,QZ,PH4,Chandan Kumar Roy,4
+Q1,QZ,PH5,Md. Abu Hasan,10
+Q1,QZ,PT4,MD. MINTU BISWAS,13
+Q1,QZ,PZ9,MR. UZZAL SARKER,38
+Q1,QZ,QC4,Anup Mondal,6
+Q2,LD,PK3,Md. Abdus Satter,17
+Q2,LD,PM3,Md. Bappy Chowdhury,13
+Q2,LD,PV8,Mr. Md. Mahfuj Khabir,13
+Q2,LD,QH5,Md. Abul Hossain,0
+Q2,PO,PI8,Md. Forhad Hossan,2
+Q2,PO,PR3,MR. Razu Ahmed,20
+Q2,PO,PV9,Mr. Md. Tajmul Alom,5
+Q2,PO,PX7,Md. Mostafizur Rahman,5
+Q2,PO,QH4,Md. Rayhan Kabir Rasul,1
+Q2,QA,PI6,Washkorunee,17
+Q2,QA,PI7,Md. Rifat Hossain,33
+Q2,QA,PV1,Mr. Rafiqul Islam,1
+Q2,QA,PX1,Md. Shahzada,3
+Q2,QA,QI2,Md. Rajib Ali,6
+Q2,QV,PK6,Md. Zaharul Islam,14
+Q2,QV,PL2,Slhabuddin,2
+Q2,QV,PS8,Mr. Md. Nur Islam,1
+Q2,QV,QF1,Md. Lutfar Rahman,6
