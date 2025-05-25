@@ -1,38 +1,38 @@
 RSM,DSM,CODE,NAME,MTD QNTY
 P1,PC,PB2,Md. Sajjat Hossain Sobuj,51
 P1,PC,PE3,Md. Kamal Hosen,75
-P1,PC,PL6,Md. Titul Mia,43
-P1,PC,PL7,Md. Salim Reza,75
-P1,PC,QC8,Md. Abdul Aziz,135
-P1,PC,QK4,Md. Mostafizur Rahman,142
+P1,PC,PL6,Md. Titul Mia,46
+P1,PC,PL7,Md. Salim Reza,76
+P1,PC,QC8,Md. Abdul Aziz,141
+P1,PC,QK4,Md. Mostafizur Rahman,145
 P1,PP,PH1,Mr. Md. Joynal Abedin as PSO Prisma,0
 P1,PS,PC2,Md. Al Amin,81
-P1,PS,PC4,Md. Rubel Mondol,39
-P1,PS,PC5,MR. ANISUR RAHAMAN BISWAS,32
+P1,PS,PC4,Md. Rubel Mondol,43
+P1,PS,PC5,MR. ANISUR RAHAMAN BISWAS,38
 P1,PS,PC6,Mr. Md. Imran Hossain,88
-P1,PS,PC7,Md. Samrat Ali,84
-P1,PS,PF5,Durjoy kumar sarkar,27
+P1,PS,PC7,Md. Samrat Ali,86
+P1,PS,PF5,Durjoy kumar sarkar,28
 P1,PS,PX6,Md. Imran Hossin,34
-P1,PS,QK2,Sojon Khan,28
+P1,PS,QK2,Sojon Khan,29
 P1,PT,PA3,Md. Mazharul Islam,22
 P1,PT,PC9,Mr. Md. Sirajul Islam,32
-P1,PT,PD1,MD. MINTU RAHMAN,17
+P1,PT,PD1,MD. MINTU RAHMAN,19
 P1,PT,PJ2,Mr. Md. Shahinur Islam,64
 P1,PT,PL4,Md. Raju Ahammed,18
-P1,PT,PP6,Mr. Md. Alamgir Kabir,77
+P1,PT,PP6,Mr. Md. Alamgir Kabir,79
 P1,PT,QI3,Mr. Md. Nazim Uddin,49
 P1,PT,QK1,Md. NESARUDDIN,10
 P1,QR,PA6,Md. Zahirul Islam,72
-P1,QR,PC8,Md. Sazzat Hossain,49
-P1,QR,PK4,Abdullah Al Noman,145
-P1,QR,PO7,Md. Khalilur Rahman Munna,172
-P1,QR,PZ5,Md. Hasan Sarkar,133
-P1,QR,QH8,Md. Nazmul Hasan,103
-P2,LC,PK5,Mr. Rabiul Islam,96
-P2,LC,PL3,Mr. Prince Kamrul Hasan,75
+P1,QR,PC8,Md. Sazzat Hossain,50
+P1,QR,PK4,Abdullah Al Noman,146
+P1,QR,PO7,Md. Khalilur Rahman Munna,175
+P1,QR,PZ5,Md. Hasan Sarkar,134
+P1,QR,QH8,Md. Nazmul Hasan,109
+P2,LC,PK5,Mr. Rabiul Islam,97
+P2,LC,PL3,Mr. Prince Kamrul Hasan,85
 P2,LC,PR1,Md. Masud Rana,70
 P2,PV,PB4,Md.Mahmudul Hasan,40
-P2,PV,PB8,Md. Abdus Sakur Tarufdar,81
+P2,PV,PB8,Md. Abdus Sakur Tarufdar,90
 P2,PV,PD6,Jayed Ahmed,22
 P2,PV,PD7,Md. Alomgir Islam,17
 P2,PV,PS3,Amit Kumar Saha,38
@@ -41,43 +41,43 @@ P2,PV,QA6,Md. Al Amin,10
 P2,PV,QG9,Tasnim Alom,32
 P2,PW,PA9,Mr. Md. S. R. Reku,9
 P2,PW,PB1,Mr. Mohammad Anower Hossen,42
-P2,PW,PB5,Rezaul Islam,32
-P2,PW,PB7,Mr. Md. Shahinur Rahman,37
+P2,PW,PB5,Rezaul Islam,35
+P2,PW,PB7,Mr. Md. Shahinur Rahman,38
 P2,PW,PH3,Habibur Rahman,11
-P2,PW,PY6,Abdul Majed,24
+P2,PW,PY6,Abdul Majed,26
 P2,PX,PA4,Md. Rasel Mahmud,47
 P2,PX,PC3,Mr. Sheikh Zahid Rahman,26
 P2,PX,PP9,Mr. Arif,37
-P2,PX,PZ1,MR. KAZI ABDUL AL MAMUN,131
+P2,PX,PZ1,MR. KAZI ABDUL AL MAMUN,132
 P2,PX,QD1,Md. Sajedul Islam,38
-P2,PX,QE9,Mohammad Mazibul Islam,123
+P2,PX,QE9,Mohammad Mazibul Islam,124
 P2,PX,QL5,Md. Habibur Rahman,18
-P2,QB,PB9,Md. Monirul Islam Mehedi,62
-P2,QB,PD5,Md. Shohanur Rahman,43
-P2,QB,PJ6,Md. Nishad,42
+P2,QB,PB9,Md. Monirul Islam Mehedi,65
+P2,QB,PD5,Md. Shohanur Rahman,44
+P2,QB,PJ6,Md. Nishad,49
 P2,QB,PL5,Md. Tanjir Rahman,22
 P2,QB,PN6,Alimul Islam,16
 P2,QB,PO1,Md. Repon Miah,19
 P2,QB,PP2,Abdul Momen,26
 P2,QL,PF6,Mr. Md. Sakib Hasan,60
 P2,QL,PL9,Md. Humayun Kabir,37
-P2,QL,PP3,Md. Slwadlin Al Hasan,24
+P2,QL,PP3,Md. Slwadlin Al Hasan,27
 P2,QL,PW8,Mr. Shofikur Rahman,11
-P2,QL,PZ7,Tamim Ahmed,26
+P2,QL,PZ7,Tamim Ahmed,27
 P2,QL,QE2,Md. Sadrul Alam,37
-P3,LE,PK2,Md. Rocky Hasan,58
+P3,LE,PK2,Md. Rocky Hasan,59
 P3,LE,PO2,Abdur Rahim,40
-P3,LE,PS6,Md. Tanzir Hossain,44
+P3,LE,PS6,Md. Tanzir Hossain,45
 P3,LE,PV7,Md. Jamil Hossan,27
-P3,LE,QB5,Ridoy Mollik,37
-P3,PD,PG5,Alomgir Hossen,23
+P3,LE,QB5,Ridoy Mollik,39
+P3,PD,PG5,Alomgir Hossen,24
 P3,PD,PG7,Md. Ferdous Rahman,19
 P3,PD,QB6,Md. Amirul Islam,5
 P3,PD,QD8,Mr. Jahedul Islam,16
 P3,PD,QK5,Rakibul Hasan,9
 P3,PZ,PG3,Md. Sadman Rafsan Khan,10
-P3,PZ,PG4,Mr. Md. Ajharul Islam,52
-P3,PZ,PN7,Md. Sohel Rana,184
+P3,PZ,PG4,Mr. Md. Ajharul Islam,55
+P3,PZ,PN7,Md. Sohel Rana,185
 P3,PZ,PP8,Mr. Shahin Ali,13
 P3,PZ,PS4,Mr. Kazi Ashraful Alam,16
 P3,PZ,QM5,Md. Hasan Khan,22
@@ -86,13 +86,13 @@ P3,QD,PJ4,Md. Sujon Mia,15
 P3,QD,PX4,Md. Jasim Uddin,39
 P3,QD,QE1,Md. Seyam Hossain,27
 P3,QD,QE7,Nure Alam,18
-P3,QH,PM5,Mr. Shakil Ahammed,81
+P3,QH,PM5,Mr. Shakil Ahammed,82
 P3,QH,PQ8,Rasedul Islam,36
 P3,QH,PV5,Mr. Md. Nurul Alam,14
 P3,QH,QF6,Md. Saidul Hasan,45
 P3,QH,QJ6,Mr. Shidul Islam,28
 P3,QK,PS5,Mr. Md. Abdur Razzak,34
-P3,QK,PW9,Md. Masud Rana,18
+P3,QK,PW9,Md. Masud Rana,19
 P3,QK,PX8,Abul Kalam Azad,3
 P3,QK,QB8,MR. JOSIM UDDIN FORHAD,30
 P3,QK,QD3,Biswajit Kumar Kar,56
@@ -101,86 +101,86 @@ P3,QK,QI7,Mr. Ahsan Ali,34
 P3,QN,PG6,Chandan Kumer Paul,26
 P3,QN,PN2,Md. Liton Hossain,10
 P3,QN,PS7,Md. Omar Faruque,78
-P3,QN,PW2,Md. Motahar Hosain,18
-P3,QN,QC3,Ashish Kumar Roy,29
-P3,QN,QL3,Sheikh Alamgir Hossan,11
-P4,LG,PD4,Syed Tuhin Reza,29
-P4,LG,PY9,Mr. Nura Alam,66
+P3,QN,PW2,Md. Motahar Hosain,19
+P3,QN,QC3,Ashish Kumar Roy,30
+P3,QN,QL3,Sheikh Alamgir Hossan,12
+P4,LG,PD4,Syed Tuhin Reza,30
+P4,LG,PY9,Mr. Nura Alam,67
 P4,LG,QJ1,Md. Abdul Wahed,38
-P4,PA,PD8,Md. Saiful Islam,75
+P4,PA,PD8,Md. Saiful Islam,77
 P4,PA,PD9,Mr. Md. Ahid Mahmud,50
 P4,PA,PM8,MD. SAIFULLAH ZOARDER,89
-P4,PA,PR2,Sree Shavo Chakra Borti,112
+P4,PA,PR2,Sree Shavo Chakra Borti,116
 P4,PA,PZ8,Md. Shahidul Islam,77
 P4,PB,PA7,Mr. Milon Khan,20
 P4,PB,PL1,Md. Ali Ahmmed,22
-P4,PB,PL8,Md. Faisal Hasan,64
+P4,PB,PL8,Md. Faisal Hasan,65
 P4,PB,PN1,Shaharia Hasan (Raj),101
-P4,PB,PP1,Md. Juwel Rana,95
+P4,PB,PP1,Md. Juwel Rana,101
 P4,PB,PR5,Md. Monjur Hossain,35
 P4,PB,QJ3,Md. Ripon Hossain,10
 P4,PU,PA5,Mr. Abdullah Al Habib,24
-P4,PU,PB3,Mr. Parvej,20
-P4,PU,PD2,Md. Robiul Islam Anik,16
+P4,PU,PB3,Mr. Parvej,21
+P4,PU,PD2,Md. Robiul Islam Anik,29
 P4,PU,PJ1,Md. Samiul Haque,28
-P4,PU,PO4,Md. Sulaiman Akash,43
+P4,PU,PO4,Md. Sulaiman Akash,45
 P4,PU,PY1,MR. MD. MIZANUR RAHMAN,28
 P4,PU,QM6,Mr. Humayan Ahamed,11
-P4,QM,PA8,Mr. Md. Suzan Ali,62
+P4,QM,PA8,Mr. Md. Suzan Ali,65
 P4,QM,PB6,Mr. Md. Robiul Islam,21
-P4,QM,PP5,Md. Yeasir Ali,33
+P4,QM,PP5,Md. Yeasir Ali,40
 P4,QM,PY2,MR. BACHHU BAIRAGI,14
-P4,QM,QJ2,Mr. Fazle Rabbi,23
+P4,QM,QJ2,Mr. Fazle Rabbi,24
 P4,QX,PD3,MD. RAFIQUL ISLAM,82
-P4,QX,PJ5,MR. MD. MAHMUD OR RASHID,41
-P4,QX,PZ4,Mr. Sohag Mollah,75
-P4,QX,QH7,Md. Tanzil Hossain,57
+P4,QX,PJ5,MR. MD. MAHMUD OR RASHID,43
+P4,QX,PZ4,Mr. Sohag Mollah,76
+P4,QX,QH7,Md. Tanzil Hossain,60
 P4,QX,QI5,Md. Manirul Islam,19
-P5,PF,PE4,Tanvir Ahmed,27
-P5,PF,PQ6,MD. MOHSHIN ALOM,35
-P5,PF,PT1,Md. Abu Kawser,8
+P5,PF,PE4,Tanvir Ahmed,28
+P5,PF,PQ6,MD. MOHSHIN ALOM,38
+P5,PF,PT1,Md. Abu Kawser,13
 P5,PF,PY8,Sumon Sarker,43
 P5,PF,QC5,Md. Habibur Rahman,10
 P5,PF,QF3,Md. Mozammal Haq,6
 P5,PF,QG1,Mahbubur Rahman,35
-P5,PF,QG2,Md. Atikur Rahman,52
-P5,PF,QJ4,Md. Rafiqul Islam,49
+P5,PF,QG2,Md. Atikur Rahman,53
+P5,PF,QJ4,Md. Rafiqul Islam,51
 P5,PF,QJ9,Mr. Nobel Sarker,51
-P5,PK,PE1,Avishik Kormoker,118
-P5,PK,PS1,Mr. Md. Omar Faruk,185
+P5,PK,PE1,Avishik Kormoker,120
+P5,PK,PS1,Mr. Md. Omar Faruk,184
 P5,PK,PU2,Mr. Md. Sumon Ahmed,87
-P5,PK,PV2,Mr. Md. Mehedi Hachan,33
-P5,PK,QA1,Khandaker Eiar Mahmud,138
-P5,PK,QC7,Md. Rasheduzzaman,87
-P5,PK,QK3,Bappi Chakraborty,123
-P5,QG,PE5,Sony Palit,97
+P5,PK,PV2,Mr. Md. Mehedi Hachan,34
+P5,PK,QA1,Khandaker Eiar Mahmud,139
+P5,PK,QC7,Md. Rasheduzzaman,86
+P5,PK,QK3,Bappi Chakraborty,127
+P5,QG,PE5,Sony Palit,99
 P5,QG,PT2,Md. Shakib Hasan,75
 P5,QG,PU1,Mr. Md. Maruf Hossain,134
-P5,QG,QA8,Md. Nurnabi Islam,150
-P5,QG,QK7,Md. Masum Mia,88
+P5,QG,QA8,Md. Nurnabi Islam,154
+P5,QG,QK7,Md. Masum Mia,90
 P5,QG,QL7,Mr. Sanuar Jahan Khan,27
-P5,QT,PC1,Md. Sharif Hossain,28
+P5,QT,PC1,Md. Sharif Hossain,29
 P5,QT,PE2,Md. Shariful Islam,94
-P5,QT,PQ5,Mr. Suruj Ahmed,112
+P5,QT,PQ5,Mr. Suruj Ahmed,113
 P5,QT,PZ6,Md. Jamal Uddin,56
 P5,QT,QG6,Md. Hamidur Rahman,29
 P5,QT,QG8,Md. Shah Paran,42
 P6,LA,PQ1,Md. Ibrahim Hossen,21
 P6,LA,PR6,M. Mahfujul Hasan,47
 P6,LA,QA4,Md. Mahadi Islam,32
-P6,LA,QD6,Md. Yousuf Ali,44
+P6,LA,QD6,Md. Yousuf Ali,47
 P6,LA,QH9,Abdullah Al Noman,31
-P6,PE,PF8,Sajib Saha,70
-P6,PE,PK9,Md. Hasibul Islam,77
+P6,PE,PF8,Sajib Saha,72
+P6,PE,PK9,Md. Hasibul Islam,81
 P6,PE,PV6,Mr. Mohammad Ismail Hossain,81
 P6,PE,QB4,Adabul Apple,43
-P6,PE,QB9,Mr. Hozrat Ali,35
+P6,PE,QB9,Mr. Hozrat Ali,36
 P6,PE,QE6,Md. Shafiqul Islam,102
 P6,PE,QK9,Bibhu Kumer Ray,32
-P6,PN,PF4,Md. Parvez Alam,53
-P6,PN,PO3,Md. Rajibul Islam,72
-P6,PN,PQ2,Md. Ibrahim Patwary,35
-P6,PN,PR7,Mr. Md. Iqbal Hossain,32
+P6,PN,PF4,Md. Parvez Alam,54
+P6,PN,PO3,Md. Rajibul Islam,73
+P6,PN,PQ2,Md. Ibrahim Patwary,36
+P6,PN,PR7,Mr. Md. Iqbal Hossain,33
 P6,PN,PV3,Mr. Md. Juel Molla,112
 P6,PN,PW6,Md. Zulker Nine,32
 P6,PN,PY7,Mr. Md. Hafizur Rahman,135
@@ -193,47 +193,47 @@ P6,QI,PF7,Md. Yaseer Arafat,47
 P6,QI,PQ3,Mr. MR. ASIKUJJAMAN,61
 P6,QI,PR9,Naeful Islam Riad,19
 P6,QI,PU6,Rafat Ahmad,92
-P6,QI,PU9,Md. Razu Ahmmed,148
+P6,QI,PU9,Md. Razu Ahmmed,150
 P6,QI,QG7,Muha Mithun Ali,95
 P6,QI,QL9,Mr. Kanchan Chandra Das,18
 P7,LB,PH6,Yeasir Mohammad Shamim Bhuiyan,68
-P7,LB,PJ3,Md. Mizanur Rahman,105
-P7,LB,QE5,Md. Elius Sheikh,49
-P7,LB,QF9,Sujon Kumer Paul,74
-P7,LB,QJ8,Mr. Mahfuj Ahamed,101
+P7,LB,PJ3,Md. Mizanur Rahman,106
+P7,LB,QE5,Md. Elius Sheikh,52
+P7,LB,QF9,Sujon Kumer Paul,76
+P7,LB,QJ8,Mr. Mahfuj Ahamed,102
 P7,PQ,PE7,Md. Al-Amin,130
 P7,PQ,PO5,Mr. Uzzal Mia,75
 P7,PQ,PO6,Bipul Ali,16
-P7,PQ,PU5,Md. Tarek Rahman,26
-P7,PQ,PW3,Mr. Md. Ariful Islam,283
+P7,PQ,PU5,Md. Tarek Rahman,27
+P7,PQ,PW3,Mr. Md. Ariful Islam,287
 P7,PQ,PY3,Md. Humaun Ahmad,66
 P7,PQ,QH2,Md. Shafiqul Islam,59
-P7,PR,PF9,Mr. Mustakim Haque Rabbi,13
-P7,PR,PG2,Md. Ajijul Islam,45
+P7,PR,PF9,Mr. Mustakim Haque Rabbi,14
+P7,PR,PG2,Md. Ajijul Islam,46
 P7,PR,PW4,Md. Raihan,10
 P7,PR,PX2,Nurujjaman Ahmed,41
 P7,PR,PY5,MR. MIZANUR RAHMAN,51
-P7,PR,QF4,Abu Raihan,38
+P7,PR,QF4,Abu Raihan,39
 P7,QC,PE8,Md. Kaicharr Ahmed,35
-P7,QC,PG1,Mr. Md. Mahbubur Rahman,72
+P7,QC,PG1,Mr. Md. Mahbubur Rahman,75
 P7,QC,PR4,Md. Mithun Hossain,183
 P7,QC,PZ2,Mr. Moshahid Buiyhan,103
 P7,QC,QB3,Taskinur Rahman Khandkar,74
 P7,QC,QD5,G. K. M. Shakhawat Hossen,30
-P7,QO,PE6,Mr. Mehedi Hasan,83
+P7,QO,PE6,Mr. Mehedi Hasan,85
 P7,QO,PQ4,Mr. Uzzal,9
 P7,QO,PT7,Palash Rana,47
 P7,QO,QA7,Bishwanath Mondal,32
-P7,QO,QH3,Saruar Hossain,174
-P7,QY,PI9,Md. Mahabur Rahman Shah,11
+P7,QO,QH3,Saruar Hossain,186
+P7,QY,PI9,Md. Mahabur Rahman Shah,12
 P7,QY,PT5,Mr. Md. Amanullah Aman,58
 P7,QY,PT6,Mr. Md. Mizanur Rahman,32
 P7,QY,PY4,Md. Akhlasur Rahman,34
 P7,QY,QN2,Mr. Md. Majidul Islam,16
 P8,PJ,PH9,Md. Kamrul Islam,28
-P8,PJ,PK1,Md. Mahafizur Rahman,22
+P8,PJ,PK1,Md. Mahafizur Rahman,25
 P8,PJ,PS9,Md. Asaduzzaman Khokon,22
-P8,PJ,QA5,Rased Hossain,84
+P8,PJ,QA5,Rased Hossain,86
 P8,PJ,QC2,Md. Manirul Islam,20
 P8,PJ,QI8,Chittro Ronzan Roy,26
 P8,PJ,QL4,Md. Sohanur Islam,18
@@ -244,102 +244,102 @@ P8,PM,QD9,Md. Juwel Rana,13
 P8,PM,QJ5,Md. Shourov Shekh,10
 P8,QE,PA2,Mr. Md. Razibur Rahman,22
 P8,QE,PI2,Md. Saikat Ali,18
-P8,QE,PI3,MD. SADHAN KUMAR SARKER,33
-P8,QE,PN3,Md. Tofazzal Hossan,75
+P8,QE,PI3,MD. SADHAN KUMAR SARKER,36
+P8,QE,PN3,Md. Tofazzal Hossan,77
 P8,QE,PW7,Md. Rabbey Pramanik,27
 P8,QE,PZ3,Nahidul Islam,14
 P8,QE,QC9,Md. Nazmul Islam,35
 P8,QE,QG3,Md. Rockybul Islam,21
 P8,QE,QG4,Md. Repon Ali,14
-P8,QE,QM9,Md. Hasibul Islam,7
+P8,QE,QM9,Md. Hasibul Islam,8
 P8,QP,PI1,Mr. Goutam Kumar,20
 P8,QP,PO9,Md. Yeasin Ali,30
 P8,QP,PP4,Md. Golam Rabbani,10
-P8,QP,PU8,Md. Faisal Ahmed,25
+P8,QP,PU8,Md. Faisal Ahmed,26
 P8,QP,QD7,Maminul Islam,38
-P8,QP,QH6,Md. Juwel Hassan,3
+P8,QP,QH6,Md. Juwel Hassan,4
 P8,QP,QI9,Mr. Romel Hossain,29
-P8,QS,PI5,Md. Rajibul Islam,61
-P8,QS,PJ9,Md. Mehedi Hasan,25
+P8,QS,PI5,Md. Rajibul Islam,62
+P8,QS,PJ9,Md. Mehedi Hasan,26
 P8,QS,QB1,Md. Sultan Mahmud Arif,20
 P8,QS,QF7,Shake Mosiur Rahman,24
 P8,QS,QJ7,Md. Humayun Kabir,31
 P9,LF,PM1,Saikat Islam,49
 P9,LF,PM2,Abdullah Al Mamun,42
-P9,LF,PU3,Rezaul Karim,110
+P9,LF,PU3,Rezaul Karim,114
 P9,LF,QC1,Md. Anisur Rahman,53
-P9,PH,PE9,Mr. Abu Sufian Mahfuj,24
+P9,PH,PE9,Mr. Abu Sufian Mahfuj,25
 P9,PH,PJ8,Mr. Md. Parvez Hasan,39
-P9,PH,PK7,Mr. Enayet Sharif,103
+P9,PH,PK7,Mr. Enayet Sharif,114
 P9,PH,PU7,Mohammad Abdul Ahad,18
 P9,PH,QA3,Mr. Chandan Saha,25
 P9,PH,QD4,Md. Ashik-Ul Gony,25
-P9,PH,QH1,Md. Tuhin Mia,33
-P9,PL,PF1,Md. Rabbi Sikder,211
-P9,PL,PJ7,Abraham Lincoln,173
-P9,PL,PM7,Md. Burhan Uddin,152
-P9,PL,QB2,Protic Datta,64
+P9,PH,QH1,Md. Tuhin Mia,35
+P9,PL,PF1,Md. Rabbi Sikder,214
+P9,PL,PJ7,Abraham Lincoln,175
+P9,PL,PM7,Md. Burhan Uddin,153
+P9,PL,QB2,Protic Datta,66
 P9,PL,QF5,Omit Sarker,90
-P9,PL,QG5,Imran Molla,45
-P9,QJ,PA1,Mr. Omar Faruque,73
-P9,QJ,PM4,Md. Ejaharul Islam,54
+P9,PL,QG5,Imran Molla,47
+P9,QJ,PA1,Mr. Omar Faruque,86
+P9,QJ,PM4,Md. Ejaharul Islam,55
 P9,QJ,PO8,Tapojati Biswas,27
 P9,QJ,PP7,MR. G.M. SAYKAT,57
 P9,QJ,PW5,Mr. Md. Nazmul Hasan,50
 P9,QJ,PX9,Md. Shohage Hossain,22
 P9,QJ,QF8,Tanim Molla,28
 P9,QU,PM6,Mr. Md. Tuhin,60
-P9,QU,PR8,Md. Mahabubur Rahaman,82
+P9,QU,PR8,Md. Mahabubur Rahaman,85
 P9,QU,PV4,Md. Khalid Hasan,10
 P9,QU,QE8,Md. Abu Sayed,33
 P9,QU,QK8,Chiranjit Das,25
 P9,QU,QN1,Md. Abdullah Al Mahmud,20
 Q1,LI,QL2,Mr. Robiul Islam as PSO Prisma,18
 Q1,PG,PG9,Md. Firoz Ahmed,44
-Q1,PG,PM9,Md. Shomser Ali,25
+Q1,PG,PM9,Md. Shomser Ali,26
 Q1,PG,PS2,Md. Taohid Khan,13
-Q1,PG,PT3,Vacant,39
+Q1,PG,PT3,Vacant,40
 Q1,PG,QI4,Mr. Md. Didar Mollah,47
-Q1,PI,PH7,Sreekanta Biswas,115
+Q1,PI,PH7,Sreekanta Biswas,114
 Q1,PI,PK8,Saiful Islam,26
-Q1,PI,PN8,Md. Mizanur Rahman,59
+Q1,PI,PN8,Md. Mizanur Rahman,61
 Q1,PI,PQ7,Md. Mahbub Hasan,39
-Q1,PI,PW1,Muhammad Mahmudul Hasan,132
-Q1,PI,PX3,Md. Kawser Hosain,40
-Q1,PI,QA9,Md. Amirul Islam,181
+Q1,PI,PW1,Muhammad Mahmudul Hasan,143
+Q1,PI,PX3,Md. Kawser Hosain,43
+Q1,PI,QA9,Md. Amirul Islam,183
 Q1,PI,QC6,Md. Mehedi Hasan,156
-Q1,PI,QF2,Mintu Bairagi,77
-Q1,QF,PH2,Md. Atiqur Rahman,77
-Q1,QF,PH8,MR. A.K.M. AHSHAN HABIB,27
+Q1,PI,QF2,Mintu Bairagi,78
+Q1,QF,PH2,Md. Atiqur Rahman,78
+Q1,QF,PH8,MR. A.K.M. AHSHAN HABIB,29
 Q1,QF,PN9,Md. Mazadul Islam,42
 Q1,QF,PQ9,Mr. Abdur Rahman,21
 Q1,QF,PT8,MR. ABDUR RAUF,72
-Q1,QF,QA2,Sajal Roy,28
-Q1,QF,QB7,Tanzirul Haq,48
+Q1,QF,QA2,Sajal Roy,29
+Q1,QF,QB7,Tanzirul Haq,50
 Q1,QF,QD2,Saddam Hossain,49
-Q1,QZ,PH4,Chandan Kumar Roy,37
-Q1,QZ,PH5,Md. Abu Hasan,55
-Q1,QZ,PT4,MD. MINTU BISWAS,27
+Q1,QZ,PH4,Chandan Kumar Roy,38
+Q1,QZ,PH5,Md. Abu Hasan,56
+Q1,QZ,PT4,MD. MINTU BISWAS,37
 Q1,QZ,PZ9,MR. UZZAL SARKER,67
 Q1,QZ,QC4,Anup Mondal,26
-Q2,LD,PK3,Md. Abdus Satter,56
+Q2,LD,PK3,Md. Abdus Satter,59
 Q2,LD,PM3,Md. Bappy Chowdhury,40
-Q2,LD,PV8,Md. Samshujjaman,44
-Q2,LD,QH5,Md. Abul Hossain,25
+Q2,LD,PV8,Md. Samshujjaman,47
+Q2,LD,QH5,Md. Abul Hossain,27
 Q2,PO,PI8,Md. Forhad Hossan,12
-Q2,PO,PR3,MR. Razu Ahmed,60
+Q2,PO,PR3,MR. Razu Ahmed,62
 Q2,PO,PV9,Mr. Dibakar Roy,11
 Q2,PO,PX7,Md. Mostafizur Rahman,19
 Q2,PO,QH4,Md. Rayhan Kabir Rasul,3
 Q2,QA,PI6,Washkorunee,43
 Q2,QA,PI7,Md. Rifat Hossain,79
 Q2,QA,PV1,Mr. Rafiqul Islam,6
-Q2,QA,PX1,Md. Shahzada,31
-Q2,QA,QI2,Md. Rajib Ali,31
+Q2,QA,PX1,Md. Shahzada,32
+Q2,QA,QI2,Md. Rajib Ali,30
 Q2,QV,PK6,Md. Zaharul Islam,32
-Q2,QV,PL2,Slhabuddin,65
+Q2,QV,PL2,Slhabuddin,75
 Q2,QV,PS8,Mr. Md. Nur Islam,54
-Q2,QV,QF1,Md. Lutfar Rahman,51
+Q2,QV,QF1,Md. Lutfar Rahman,52
 
 
 
